@@ -217,6 +217,8 @@ Beyond the resources listed above.
 
 We don't have Neo4j import scripts or graph exports for these, but we think they might be interesting to explore:
 
+* [Data.world graph4good datasets](https://docs.google.com/spreadsheets/d/1lSl8OeJWhmgBksl8K2YzRjJVu2VBZvaXXQUJIKY-x5A/edit#gid=0)
+
 * [Deep and interesting datasets for computational journalism](http://cjlab.stanford.edu/2015/09/30/lab-launch-and-data-sets/)
 * [US Government's open data](http://www.data.gov/)
 * [NASA's Data Portal](https://data.nasa.gov/)
