@@ -101,12 +101,8 @@ Prize Distribution
 ### Campaign Finance - FEC Filings
 ![](http://guides.neo4j.com/legisgraph/img/fec-dm.png)
 
+* Available on Neo4j Sandbox with [this link](https://neo4j.com/sandbox-v2/ire), then look for "IRE 2017 Workshop" use case. 
 
-* `:play http://guides.neo4j.com/legisgraph/fecimport.html`
-
-#### Combined US Congress + FEC
-* Use this browser guide: `:play http://guides.neo4j.com/legisgraph`
-* Or download [this pre-built datastore](https://dl.dropboxusercontent.com/u/67572426/fec-legis-graph/graph.db.zip)
 
 ### US Election Data
 
@@ -123,8 +119,6 @@ tar -xvzf neo4j-election-twitter-demo.tar.gz
 cd neo4j-enterprise-3.0.3
 bin/neo4j start
 ~~~
-
-*[Or use hosted instance](http://bit.ly/trumptweetsneo4j)
 
 *NOTE: This dataset has an interactive Neo4j Browser guide for exploring the data:*
 
