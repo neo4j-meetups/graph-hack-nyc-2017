@@ -1,8 +1,10 @@
 # Graph Hack 2016
 
+## (graphs)-[:4]->(good)
+
 ## TLDR
 
-* Build something cool with Neo4j
+* Build something cool with Neo4j under the theme graphs4good
 * Register your project and team [here](https://hackdash.org/dashboards/graphnyc)
 * Present your project 
 * Win cool prizes
@@ -63,11 +65,29 @@ Prize Distribution
 
 ## Datasets
 
+
+### Trends in Food Prices, Food Consumtion Scores, and Poverty Baselines, by Country
+
+[The Humanitarian Data Exchange](https://data.humdata.org/) is an open platform for sharing data, launched in July 2014. The goal of HDX is to make humanitarian data easy to find and use for analysis.
+
+![](img/food_datamodel.png)
+
+* [bit.ly/foodgraph](https://bit.ly/foodgraph)
+* *username: foodgraph*
+* *password: foodgraph*
+
+### Fake News Graph
+
+* [bit.ly/fakenewsgraph](https://bit.ly/fakenewsgraph)
+* *username: fakenewsgraph*
+* *password: fakenewsgraph*
+
+
 ### Panama Papers + (Offshore Leaks + Bahamas Leaks)
 
 ![](img/pp_screenshot.png)
 
-* [Download from ICIJ Offshore Leaks](https://offshoreleaks.icij.org/pages/database)
+* [Neo4j Sandbox](https://neo4jsandbox.com)
 
 *NOTE: This dataset has an interactive Neo4j Browser guide for exploring the data:*
 
@@ -75,8 +95,7 @@ Prize Distribution
 
 ![](img/lg_datamodel.png)
 
-* [Github repository](https://github.com/legis-graph/legis-graph)
-* [Quickstart import from your web browser](http://johnymontana.github.io/LazyWebCypher/?file=https://raw.githubusercontent.com/legis-graph/legis-graph/master/quickstart/114/legis_graph_import_114.cypher)
+* [Neo4j Sandbox](https://neo4jsandbox.com)
 * `:play http://guides.neo4j.com/legisgraph`
 
 ### Campaign Finance - FEC Filings
